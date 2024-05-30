@@ -1,6 +1,7 @@
 # Node GeminiFlow
 
-# Use Gemini 1.5 Pro Model without any cost(currently only supports text model , future versions may include an image based model)
+## Use Gemini 1.5 Pro Model without any cost
+(currently only supports text model , future versions may include an image based model)
  
 ```markdown
 # Gemini 1.5 Pro Model
@@ -13,9 +14,9 @@ The Gemini 1.5 Pro Model is an advanced natural language processing (NLP) model 
 
 ## Features
 
-- **High Accuracy:** The model has been trained on a diverse dataset to ensure accurate and relevant responses.
-- **User-Friendly:** Easy to integrate and use in various applications.
-- **Versatile:** Can handle a wide range of topics and queries.
+- High Accuracy: The model has been trained on a diverse dataset to ensure accurate and relevant responses.
+- User-Friendly: Easy to integrate and use in various applications.
+- Versatile: Can handle a wide range of topics and queries.
 
 ## Getting Started
 
