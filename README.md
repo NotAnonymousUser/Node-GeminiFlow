@@ -1,10 +1,11 @@
 # Node GeminiFlow
 
+## USE GEMINI 1.5 PRO MODEL WITHOUT AN COST
  
 ```markdown
 # Gemini 1.5 Pro Model
 
-This project features a text-based model I.e free of cost to use capable of answering your queries.
+This project features a text-based model i.e free to use capable of answering your queries.
 
 ## Overview
 
