@@ -1,6 +1,6 @@
 # Node GeminiFlow
 
-## USE GEMINI 1.5 PRO MODEL WITHOUT AN COST
+## Use Gemini 1.5 Pro Model without any cost(currently only supports text model , future versions may include an image based model)
  
 ```markdown
 # Gemini 1.5 Pro Model
