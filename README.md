@@ -57,14 +57,10 @@ You can then enter your queries, and the model will provide responses.
 Here's a quick example of how to use the model in your Node.js application:
 
 ```
-Run the program using node index.js
-The program will ask you for the prompt enter the prompt
-It will generate your desired results
+1)Run the program using node index.js
+2)The program will ask you for the prompt enter the prompt
+3)It will generate your desired results
 ```
-
-### Configuration
-
-You can configure various settings of the Gemini 1.5 Pro Model by modifying the `config.json` file.
 
 ## Contributing
 
